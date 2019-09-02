@@ -19,9 +19,10 @@ from userbot.events import register, errors_handler
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
     "`Hello! This is an automated message.\n\n`"
-    "`I haven't approved you to PM yet.`"
-    "`Please wait for me to look in, I mostly approve PMs.\n\n`"
-    "`Until then, please don't spam my PM, you'll get blocked and reported!`")
+    "`You are not special. You're not a beautiful and unique snowflake.\n\n`"
+    "`You're the same decaying organic matter as everything else. So just tell why you are here?\n\n`"
+    "`Your message has been received will be responded when I'm free don't sit here whole day wondering, I am not jobless like you.:blush:\n\n`"
+    "`Just Kidding, Don't take anything seriously.:stuck_out_tongue_winking_eye:`")
 # =================================================================
 
 
